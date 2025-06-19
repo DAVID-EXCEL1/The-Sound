@@ -32,7 +32,7 @@ const About = () => {
 
                         <p className="text-lg leading-relaxed mb-6">
                             <strong>The Sound</strong> is your ultimate destination for high-quality music streaming.
-                            Whether you're discovering new artists or vibing to your favorites, we bring the rhythm
+                            Whether you&apos;re discovering new artists or vibing to your favorites, we bring the rhythm
                             straight to you—anytime, anywhere.
                         </p>
 
